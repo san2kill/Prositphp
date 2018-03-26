@@ -1,0 +1,15 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #767270;
+$background-color: #fff;
+
+body {
+  font: 100% $font-stack;
+  background-color: $background-color;
+  color: $primary-color;
+  text-align: center;
+}
+.responsive-img
+{
+  width: 70%;
+  height: 70%;
+}
